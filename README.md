@@ -1,8 +1,8 @@
-## 👋 Hi there!, I'm Alejandro González. 
+## 👋 Hi there! I'm Alejandro González. 
 
 ### 📖 About me.
 
-I'm a final-year student of  Civil Engineering in Computer Science at Universidad de la Frontera. I am looking to specialize as a FullStack Web Developer, Mobile Developer and UI/UX Designer.
+I'm a final-year student of  Civil Engineering in Computer Science at Universidad de la Frontera. I am looking to specialize as a **FullStack Web Developer**, **Mobile Developer** and **UI/UX Designer**.
 
 
 ### 🛠️ Languages & Tools.
