@@ -6,7 +6,7 @@ I'm a final-year student of  Civil Engineering in Computer Science at Universida
 
 
 ### 🛠️ Languages & Tools.
-The web development frameworks I have used the most are **Angular** and **Spring Framework/Spring Boot**, Android mobile development with **Flutter** and UI/UX design with **Adobe XD**. I am also open to learning new technologies.
+The web development frameworks I've used the most are **Angular** and **Spring Framework/Spring Boot**, Android mobile development with **Flutter** and for UI/UX design I work with **Adobe XD**. I am also open to learning new technologies.
 
 <p align="left"> 
 <img alt="javascript" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/e91b3110c0724eb2f652d710579765e037f82d29/assets/images_languages_tools/javascript.svg"/>
