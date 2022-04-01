@@ -21,7 +21,7 @@ The web development frameworks I've used the most are **Angular** and **Spring F
 <img alt="CSS" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/css3.svg"/>
 <img alt="Bootstrap" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/6a49da8aaad6bdecf48d3eefc9167dff944f4f25/assets/images/languages_tools/bootstrap.svg"/>
 <img alt="MySQL" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/mysql.svg"/>
-<img alt="PostgreSQL" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/postgresql.svg"/>
+<img alt="PostgreSQL" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/2906c9b44418761076b2e4cb20d9dc05c782bd6e/assets/images/languages_tools/postgresql.svg"/>
 <img alt="MongoDB" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/mongodb.svg"/>
 <img alt="Firebase" width="48px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/firebase.svg"/>
 <img alt="NodeJS" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/nodejs.svg"/>
