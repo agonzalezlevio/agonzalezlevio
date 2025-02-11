@@ -4,7 +4,7 @@
 
 I'm a Civil Engineer in Computer Science at Universidad de la Frontera. I am looking to specialize as a **FullStack Web Developer**, **Mobile Developer** and **UI/UX Designer**.
 
-- 🌱 I'm actually learning **NestJS** and **Amazon Web Services**.
+- 🌱 I'm actually learning **React** and **Amazon Web Services**.
 - 🎮 I like video games, although I don't have much time.
 - 📚 I love reading, my favorite genres are mystery and dystopias.
 
