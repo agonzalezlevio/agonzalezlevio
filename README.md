@@ -1,37 +1,72 @@
-## 👋 Hi there! I'm Alejandro González. 
+## 👋 Hi there! I'm Alejandro González
 
-### 📖 About me.
+Detail-oriented developer who enjoys building **scalable, maintainable, and clean** products.  
+🇨🇱 Based in Chile · Anime & manga fan · Lifelong learner.
 
-I'm a Civil Engineer in Computer Science at Universidad de la Frontera. I am looking to specialize as a **FullStack Web Developer**, **Mobile Developer** and **UI/UX Designer**.
+### 📖 About me
+- 🎓 Civil Engineer in Computer Science — Universidad de La Frontera.
+- 🌱 Currently learning React and AWS.
+- 🧠 I like to research and study new tech before jumping into code.
+- 🎯 I care about readability and clear docs.
+- 📚 Avid reader — I love mystery and dystopian fiction.
 
-- 🌱 I'm actually learning **React** and **Amazon Web Services**.
-- 🎮 I like video games, although I don't have much time.
-- 📚 I love reading, my favorite genres are mystery and dystopias.
+### 🩺 Current work
 
-### 🛠️ Languages & Tools.
-The web development frameworks I've used the most are **Angular** and **Spring Framework/Spring Boot**, Android mobile development with **Flutter** and for UI/UX design I work with **Adobe XD**. I am also open to learning new technologies.
+* Building healthcare software: clinic-wide tools like surgery scheduling, intraoperative status tracking, live viewers, and a stage button panel for real-time updates—plus other clinical workflows, including bed management and patient registration, and more.
 
-<p align="left"> 
-<img alt="javascript" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/javascript.svg"/>
-<img alt="typescript" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/typescript.svg"/>
-<img alt="java" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/java.svg"/>
-<img alt="dart" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/dart.svg"/>
-<img alt="python" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/python.svg"/>
-<img alt="HTML 5" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/html5.svg"/>
-<img alt="CSS" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/css3.svg"/>
-<img alt="Bootstrap" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/6a49da8aaad6bdecf48d3eefc9167dff944f4f25/assets/images/languages_tools/bootstrap.svg"/>
-<img alt="MySQL" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/mysql.svg"/>
-<img alt="PostgreSQL" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/2906c9b44418761076b2e4cb20d9dc05c782bd6e/assets/images/languages_tools/postgresql.svg"/>
-<img alt="MongoDB" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/mongodb.svg"/>
-<img alt="Firebase" width="48px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/firebase.svg"/>
-<img alt="NodeJS" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/nodejs.svg"/>
-<img alt="Angular" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/angular.svg"/>
-<img alt="Spring boot" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/spring.svg"/>
-<img alt="Flutter" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/flutter.svg"/>
-<img alt="Git" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/git.svg"/>
-<img alt="Postman" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/6a49da8aaad6bdecf48d3eefc9167dff944f4f25/assets/images/languages_tools/getpostman.svg"/>
-<img alt="Adobe XD" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/adobexd.svg"/>
-<img alt="Adobe Photoshop" width="42px" src="https://raw.githubusercontent.com/agonzalezlevio/agonzalezlevio/0156ee0e25a365827672faa3c290da04cd60d670/assets/images/languages_tools/adobephotoshop.svg"/>
+
+### 🛠️ Languages
+<p align="left">
+  <img alt="JavaScript"  title="JavaScript"  width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript"  title="TypeScript"  width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img alt="Java"        title="Java"        width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Dart"        title="Dart"        width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg"/>
+  <img alt="Go"          title="Go"          width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+  <img alt="HTML5"       title="HTML5"       width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3"        title="CSS3"        width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="Python"      title="Python (refreshing)" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
 
+### ⚙️ Frameworks & Runtimes
+<p align="left">
+  <img alt="Angular"     title="Angular"     width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
+  <img alt="Spring Boot" title="Spring Boot" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img alt="Node.js"     title="Node.js"     width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="NestJS"      title="NestJS"      width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
+  <img alt="Flutter"     title="Flutter"     width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"/>
+  <!-- Learning -->
+  <img alt="React"       title="React (learning)" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img alt="MySQL"       title="MySQL"       width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="PostgreSQL"  title="PostgreSQL"  width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img alt="MongoDB"     title="MongoDB"     width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+  <img alt="Oracle"      title="Oracle"      width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
+  <img alt="Firebase"    title="Firebase"    width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg"/>
+  <!-- Learning -->
+  <img alt="AWS"         title="Amazon Web Services (learning)" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+</p>
+
+### 🔧 CI/CD & Tools
+<p align="left">
+  <img alt="Jenkins"     title="Jenkins"     width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
+  <img alt="Git"         title="Git"         width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="Postman"     title="Postman"     width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg"/>
+  <img alt="Figma"       title="Figma"       width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+</p>
+
+### 📡 Messaging & Eventing
+<p align="left">
+  <img alt="NATS" title="NATS (NATS.js)" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nats/nats-original.svg"/>
+  <img alt="RabbitMQ" title="RabbitMQ" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"/>
+</p>
+
+
+### 🧭 How I work
+- Research-first: I explore the problem and outline a simple plan before I build.
+- Feature-oriented architecture with small, composable pieces.
+- APIs and UIs shaped for scalability and maintainability.
+- I keep brief design notes and clear commit messages for meaningful changes.
 
