@@ -59,8 +59,8 @@ Detail-oriented developer who enjoys building **scalable, maintainable, and clea
 
 ### 📡 Messaging & Eventing
 <p align="left">
-  <img alt="NATS" title="NATS (NATS.js)" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nats/nats-original.svg"/>
-  <img alt="RabbitMQ" title="RabbitMQ" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"/>
+  <img alt="NATS"       title="NATS (NATS JETSTREAM)" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nats/nats-original.svg"/>
+  <img alt="SocketIO"   title="SocketIO" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"/>
 </p>
 
 
